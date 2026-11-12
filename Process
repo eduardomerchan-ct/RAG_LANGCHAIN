@@ -1,0 +1,22 @@
+1. We load the data
+2. We Split the data
+3. We embed the data: 
+4.Store in the vector database
+
+Embedding are vector coordinates, and when we ask for something the computer knows the meaning of the query,
+and based on the query the computer knows that what we are looking for is in close proximity to find what the user
+requests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
